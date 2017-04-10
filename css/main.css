@@ -2,3 +2,34 @@ html {
   font-family: 'Raleway', sans-serif;
   font-family: 'Muli', sans-serif;
 }
+
+.logo {
+  height: 60px;
+  width: 60px;
+}
+
+.bkd {
+  background-color: #3B3A3A;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  text-decoration: none;
+  display: inline-block;
+  color: #fff;
+}
+
+.btn {
+  background-color: red;
+}
+
+.nav {
+  text-align: right;
+}
