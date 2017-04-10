@@ -35,7 +35,13 @@ nav a {
   margin-left: -25%;
 }
 
-@media only screen and (min-width: 36em) {
+.img-flex {
+  width: 100%;
+  text-align: center;
+  display: block;
+}
+
+@media only screen and (min-width: 38em) {
 
   .banner-img {
     width: 100%;
@@ -44,4 +50,39 @@ nav a {
   .photo {
     margin-left: 0;
   }
+
+  html {
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+  .image {
+    width: 48%;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 25em;
+  }
+
+  .content {
+    width: 48%;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 25em;
+  }
+}
+
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+    line-height: 1.5;
+  }
+
 }
