@@ -1,5 +1,4 @@
 html {
-  font-family: 'Raleway', sans-serif;
   font-family: 'Muli', sans-serif;
 }
 
@@ -64,6 +63,10 @@ a {
 
 .card:hover {
   color: #fff;
+}
+
+.card {
+  text-decoration: none;
 }
 
 
