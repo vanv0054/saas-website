@@ -77,6 +77,19 @@ a {
   text-decoration: none;
 }
 
+table {
+  border: 1px solid #000;
+}
+
+tr td {
+  border: 1px solid #000;
+}
+
+th {
+  background-color: #3b3a3a;
+  color: #fff;
+}
+
 @media only screen and (min-width: 38em) {
 
   .banner-img {
