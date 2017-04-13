@@ -34,20 +34,6 @@ nav .btn:hover {
   text-align: right;
 }
 
-.banner-img {
-  width: 200%;
-}
-
-.photo {
-  margin-left: -25%;
-}
-
-.img-flex {
-  width: 100%;
-  text-align: center;
-  display: block;
-}
-
 footer a {
   text-decoration: none;
   color: #000;
