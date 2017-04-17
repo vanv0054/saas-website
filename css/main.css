@@ -24,10 +24,13 @@ nav a {
 
 nav .btn:hover {
   text-decoration: none;
+  background-color: #fff;
+  color: #000;
 }
 
 .btn {
   background-color: red;
+  border: none;
 }
 
 .nav {
@@ -73,6 +76,14 @@ tr td {
 
 th {
   background-color: #3b3a3a;
+  color: #fff;
+}
+
+.price-card {
+  background-color: #bb1010;
+}
+
+.price-h2 {
   color: #fff;
 }
 
