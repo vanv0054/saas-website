@@ -79,13 +79,11 @@ th {
   color: #fff;
 }
 
-.each-table {
-  background-color: #bb1010;
+.price-head {
+  background-color: red;
+  border: 1px solid #000;
 }
 
-.price-h2 {
-  color: #fff;
-}
 @media only screen and (min-width: 38em) {
 
   .banner-img {
